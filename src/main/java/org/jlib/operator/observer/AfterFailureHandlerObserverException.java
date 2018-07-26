@@ -22,9 +22,11 @@
 package org.jlib.operator.observer;
 
 import org.jlib.message.Message;
+import org.jlib.operator.OperatorException;
 
 /**
- * {@link ObserverException} thrown during a {@link Observer#afterFailure)} operation.
+ * {@link ObserverException} thrown during an
+ * {@link Observer#afterFailure(Object, OperatorException)} (Object, OperatorException)} operation.
  *
  * @author Igor Akkerman
  */

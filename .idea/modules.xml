@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jlib-operator.iml" filepath="$PROJECT_DIR$/.idea/modules/jlib-operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jlib-operator_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jlib-operator_main.iml" group="jlib-operator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jlib-operator_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jlib-operator_test.iml" group="jlib-operator" />
+    </modules>
+  </component>
+</project>
