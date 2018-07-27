@@ -9,9 +9,9 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="jlib-operator_main" />
-    <orderEntry type="library" name="Gradle: org.jlib:jlib-value:1.0.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Gradle: org.jlib:jlib-message:1.0.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Gradle: org.jlib:jlib-exception:1.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Gradle: org.jlib:jlib-value:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jlib:jlib-message:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jlib:jlib-exception:1.0.0" level="project" />
     <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter-api:5.1.0" level="project" />
     <orderEntry type="library" name="Gradle: org.assertj:assertj-core:3.10.0" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.jupiter:junit-jupiter-engine:5.1.0" level="project" />
