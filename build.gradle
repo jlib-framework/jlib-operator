@@ -28,8 +28,6 @@ plugins {
     id 'net.researchgate.release' version '2.6.0'
 }
 
-version = '1.0.0-SNAPSHOT'
-
 description = 'jlib operator framework'
 ext.detailedDescription = 'jlib framework used for implementing observable operations'
 
@@ -46,4 +44,5 @@ dependencies {
 
     testImplementation 'org.mockito:mockito-core:2.20.0'
 }
+
 
